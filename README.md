@@ -13,7 +13,7 @@ This repository contains a cleaned, reproducible version of the GPT response sim
      - `exploded_data_stages3.csv`
 
 2. **Clean data**
-   - Removes empty sentence rows.
+   - Removes empty sentence rows. 
    - Normalizes non-ASCII characters and repeated whitespace.
    - Keeps `ChatGpt 4o` rows for the across-user analysis.
 
