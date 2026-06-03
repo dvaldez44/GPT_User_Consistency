@@ -31,7 +31,7 @@ This repository contains a cleaned, reproducible version of the GPT response sim
    - Uses Hungarian alignment to match sentences and retain matched-pair similarity scores.
 
 6. **Create visualizations and bootstrap mean differences**
-   - Creates reviewer strip plots.
+   - Creates strip plots.
    - Runs nested mean-difference bootstraps:
      - Stage analysis: average sentence similarities within `User x StagePair`, compare paired user-level means, resample users.
      - User analysis: average sentence similarities within `user_pair x new_index`, compare paired user-pair-level means, resample user pairs.
