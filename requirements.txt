@@ -1,0 +1,11 @@
+numpy>=2.2
+pandas>=2.3
+scipy>=1.16
+scikit-learn>=1.7
+matplotlib>=3.10
+seaborn>=0.13
+torch>=2.7
+transformers>=4.53
+tqdm>=4.67
+openpyxl>=3.1
+nltk>=3.9
